@@ -16,7 +16,7 @@ Producing hydrocarbons from deep-water reservoirs is nothing short of a technolo
 
 ### **Challenge Summary**
 
-In **TCO19 Shell GameChanger Challenge**, we are presented with the opportunity to detect abnormal activity of one major production subsea system. This dataset will be comprised of roughly 200+ sensors (tempreature, pressure, voltage etc.) across the whole production platfrom and subsea system. These sensors will be scaled and anonymized to protect the proprietary operations of Shell and to drive a data-focused approach rather then a business knowledge-focused one. In analyzing the data, we should be able to find key variables / factors that could detect and predict the onset of abnormal activity.
+In **TCO19 Shell GameChanger Challenge**, we are presented with the opportunity to detect abnormal activity of one major production subsea system. This dataset will be comprised of roughly 200+ sensors (tempreature, pressure, flowrate etc.) across the whole production platfrom and subsea system. These sensors will be scaled and anonymized to protect the proprietary operations of Shell and to drive a data-focused approach rather then a business knowledge-focused one. In analyzing the data, we should be able to find key variables / factors that could detect and predict the onset of abnormal activity.
 
 ### **Dual-Model System**
 
