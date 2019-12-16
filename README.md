@@ -161,9 +161,7 @@ Given more time we can furthur improve various aspects of the models such as:
 - **Model Simplification** - XGBoost model could be replaced with a cheaper model such as Logisitic Regression if we build in the feature interactions.
 
 ## 10) Last Words 
-Thanks again for **Shell** and **topcoder** for hosting this competition. We had a lot of fun working through the problem in a data-driven way!   
-
-Cheers.
+Thanks again for **Shell** and **topcoder** for hosting this competition. It was an interesting problem to tackle. Especially since everything was unknown we had to utilize different agnostic methods.   
 
 ## 11) Authors
 - **Eddie Yuen**:   
